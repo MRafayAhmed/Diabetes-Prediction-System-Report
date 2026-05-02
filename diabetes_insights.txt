@@ -1,0 +1,7 @@
+
+    Actionable Insights for Diabetes Prevention:
+    1. Monitor key risk factors: Pregnancies, Glucose, BloodPressure.
+    2. Prioritize regular glucose screening for early detection.
+    3. Encourage lifestyle changes to manage BMI and blood pressure.
+    4. Focus on high-risk groups, such as older patients or those with a family history of diabetes.
+    
